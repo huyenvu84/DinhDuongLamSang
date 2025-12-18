@@ -1,0 +1,5 @@
+{
+  "name": "Clinical Nutrition Advisor",
+  "description": "An application to calculate and provide clinical nutrition advice based on patient data using AI.",
+  "requestFramePermissions": []
+}
